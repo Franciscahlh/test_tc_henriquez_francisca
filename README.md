@@ -12,4 +12,4 @@ Me gusta comer:
 
 chao
 
-Estoy editandolo en la siguiente clase
+Estoy editandolo en la siguiente clase.
